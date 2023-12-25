@@ -25,5 +25,5 @@
 
 
 
-![snake gif](https://github.com/MooSayed1/MooSayed1/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/MooSayed1/MooSayed1/blob/output/github-contribution-grid-snake-dark.svg)
 
