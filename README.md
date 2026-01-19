@@ -5,7 +5,7 @@
 
 ### 🧑‍💻 About Me
 - 💡 Passionate about **problem-solving**, **competitive programming**, and **open-source**  
-- 📫 Reach me at **mohamed1212213183@gmail.com**  
+- 📫 Reach me at **mohamed.elsayed.dev2@gmail.com**  
 
 ---
 
