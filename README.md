@@ -16,9 +16,6 @@
 <a href="https://www.linkedin.com/in/mohamed-el-sayed-rabiee/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="https://mosayed.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-2B6CB0?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-</a>
 <a href="https://codeforces.com/profile/moosayed.">
   <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
 </a>
@@ -37,7 +34,6 @@
 - Full-stack developer building production platforms with **C# / .NET**, **FastAPI**, and **Next.js**
 - **Community Head & Mentor** at ICPC Zagazig Community — mentored **300+** students
 - **2x ECPC Finalist** (Top 7% nationally) — solved **1000+** algorithmic problems
-- Portfolio: **[mosayed.vercel.app](https://mosayed.vercel.app/)**
 
 ---
 
@@ -108,22 +104,7 @@
 
 ---
 
-## Trophies
-
 <div align="center">
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=moosayed1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-<!-- Snake contribution animation -->
-<img src="https://raw.githubusercontent.com/MooSayed1/MooSayed1/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:64a1f4,100:2B6CB0&height=120&section=footer" alt="footer"/>
 
